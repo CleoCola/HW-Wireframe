@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: grey;
+    background: grey;
+}
+.container {
+    display: inline-block;
+    width: 75%;
+    ;
+}
+header {
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    width: 75%;
+    background: lightgrey;
+}
+h2 {
+    color: lightgrey;
+}
+h3 {
+    font-weight: bold;
+}
+section {
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    width: 75%;
+    background: lightgrey;
+}
+#nav {
+    padding: 20px;
+    margin: 5px;
+}
+#section {
+    padding: 15px;
+    margin: 5px;
+    margin-right: 0px;
+    width: 55%;
+    float: left;
+    overflow: full;
+    clear: auto;
+}
+.article {
+    padding: 20px;
+    margin: 5px;
+    background: grey;
+}
+.dath {
+    padding: 5px;
+    margin: 5px;
+    background: lightgrey;
+}
+.para {
+    padding: 5px;
+    margin: 5px;
+    background: lightgrey;
+}
+#asside {
+    padding: 20px;
+    margin: 5px;
+    width: 40%;
+    float: right;
+    height: 320px;
+}
+footer {
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    width: 75%;
+    background: lightgrey;
+}
